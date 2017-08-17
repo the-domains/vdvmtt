@@ -217,3 +217,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Design matters
 github: true
+content_rating:
+  adult: false
