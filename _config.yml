@@ -1,0 +1,219 @@
+layout_spectrum: 0.34309450214839365
+typography_spectrum: 0.20032086719731146
+color:
+  brandStrength: 0.0921578131847563
+  saturation: 0.17138742109474792
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.2344114082627515
+  rhythmicContrast: 0.4559041796358173
+logo: null
+name: vdvmtt
+navigation:
+  - name: About
+    id: 9d26495f-f1c3-43ae-8eb5-12e81128590e
+    type: content
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: VDVMTT
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Photo by Anthony DELANOIX | Unsplash</h1><p>A free
+      high-resolution photo of building, architecture and city by Anthony
+      DELANOIX, taken with an Canon Canon EOS 5D Mark II</p><img
+      src="http://images.unsplash.com/photo-1423768164017-3f27c066407f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=41805d92b7008031a2c3b16fe48c44e7"></article>
+    src: >-
+      http://images.unsplash.com/photo-1423768164017-3f27c066407f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=41805d92b7008031a2c3b16fe48c44e7
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://unsplash.com'
+        name: Unsplash
+        favicon: 'https://unsplash.com/favicon.ico'
+        domain: unsplash.com
+      keywords: []
+      description: >-
+        A free high-resolution photo of building, architecture and city by
+        Anthony DELANOIX, taken with an Canon Canon EOS 5D Mark II
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://unsplash.com/collections/514990/architecture?photo=b5POxb2aL9o'
+      title: Photo by Anthony DELANOIX | Unsplash
+      datePublished: null
+    title: Photo by Anthony DELANOIX | Unsplash
+    caption: >-
+      A free high-resolution photo of building, architecture and city by Anthony
+      DELANOIX, taken with an Canon Canon EOS 5D Mark II
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Photo by Anthony DELANOIX | Unsplash</h1><p>A free
+      high-resolution photo of building, architecture and city by Anthony
+      DELANOIX, taken with an Canon Canon EOS 5D Mark II</p><img
+      src="http://images.unsplash.com/photo-1423768164017-3f27c066407f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=41805d92b7008031a2c3b16fe48c44e7"></article>
+    src: >-
+      http://images.unsplash.com/photo-1423768164017-3f27c066407f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=41805d92b7008031a2c3b16fe48c44e7
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://unsplash.com'
+        name: Unsplash
+        favicon: 'https://unsplash.com/favicon.ico'
+        domain: unsplash.com
+      keywords: []
+      description: >-
+        A free high-resolution photo of building, architecture and city by
+        Anthony DELANOIX, taken with an Canon Canon EOS 5D Mark II
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://unsplash.com/collections/514990/architecture?photo=b5POxb2aL9o'
+      title: Photo by Anthony DELANOIX | Unsplash
+      datePublished: null
+    title: Photo by Anthony DELANOIX | Unsplash
+    caption: >-
+      A free high-resolution photo of building, architecture and city by Anthony
+      DELANOIX, taken with an Canon Canon EOS 5D Mark II
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d007c241-a01e-4e12-9643-b052f109dd53.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d007c241-a01e-4e12-9643-b052f109dd53.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/878c33d3-6e17-4438-b385-707dbca747ed.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/878c33d3-6e17-4438-b385-707dbca747ed.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90545f37-c41a-40f0-8f75-7c8ffc92a474.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/90545f37-c41a-40f0-8f75-7c8ffc92a474.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/953bb1a1-ad4a-4a55-877d-407cd63aebce.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/953bb1a1-ad4a-4a55-877d-407cd63aebce.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccc8ce5-c835-4b55-a7ce-5c6095a6b2af.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccc8ce5-c835-4b55-a7ce-5c6095a6b2af.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Design matters
+github: true
